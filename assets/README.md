@@ -79,6 +79,6 @@ THEN I can save my initials and score</b>
 <img width="1440" alt="Screen Shot 2021-05-30 at 9 29 03 PM" src="https://user-images.githubusercontent.com/83053936/120139874-414cc880-c18e-11eb-8de2-b2fbf6a3df1f.png">
 
 
-Click [here](https://sophiaaziz.github.io/APIQuiz/) to go to my quiz. 
-Click [here](https://github.com/sophiaaziz/APIquiz) to go to my repository.
+Click [here](https://sophiaaziz.github.io/challengequiz/) to go to my quiz. 
+Click [here](https://github.com/sophiaaziz/challengequiz) to go to my repository.
 # quizapi
